@@ -1300,7 +1300,13 @@
             <outputDirectory>wso2telcohub-${pom.version}/repository/conf</outputDirectory>
             <fileMode>644</fileMode>
         </file>
-
+        <file>
+            <source>
+                ../../p2-profile/product/target/wso2carbon-core-${carbon.platform.version}/dep-hub/conf/user-masking.properties
+            </source>
+            <outputDirectory>wso2telcohub-${pom.version}/repository/conf</outputDirectory>
+            <fileMode>644</fileMode>
+        </file>
         <file>
             <source>
         ../../p2-profile/product/target/wso2carbon-core-${carbon.platform.version}/dep-hub/conf/workflow-configuration.xml

@@ -140,6 +140,9 @@
                                     com.wso2telco.dep:com.wso2telco.dep.oneapivalidation.feature:${com.wso2telco.dep.version}
                                 </featureArtifactDef>
                                 <featureArtifactDef>
+                                    com.wso2telco.dep:com.wso2telco.dep.usermasking.feature:${com.wso2telco.dep.version}
+                                </featureArtifactDef>
+                                <featureArtifactDef>
                                     com.wso2telco.dep:com.wso2telco.dep.subscriptionvalidator.feature:${com.wso2telco.dep.version}
                                 </featureArtifactDef>
                                 <featureArtifactDef>
@@ -911,6 +914,10 @@
                                     <version>${com.wso2telco.dep.version}</version>
                                 </feature>
                                 <feature>
+                                    <id>com.wso2telco.dep.usermasking.feature.group</id>
+                                    <version>${com.wso2telco.dep.version}</version>
+                                </feature>
+                                <feature>
                                     <id>com.wso2telco.dep.subscriptionvalidator.feature.group</id>
                                     <version>${com.wso2telco.dep.version}</version>
                                 </feature>
@@ -1573,6 +1580,10 @@
                                     <version>${com.wso2telco.dep.version}</version>
                                 </feature>
                                 <feature>
+                                    <id>com.wso2telco.dep.usermasking.feature.group</id>
+                                    <version>${com.wso2telco.dep.version}</version>
+                                </feature>
+                                <feature>
                                     <id>com.wso2telco.dep.subscriptionvalidator.feature.group</id>
                                     <version>${com.wso2telco.dep.version}</version>
                                 </feature>
@@ -2009,6 +2020,10 @@
                                 </feature>
                                 <feature>
                                     <id>com.wso2telco.dep.oneapivalidation.feature.group</id>
+                                    <version>${com.wso2telco.dep.version}</version>
+                                </feature>
+                                <feature>
+                                    <id>com.wso2telco.dep.usermasking.feature.group</id>
                                     <version>${com.wso2telco.dep.version}</version>
                                 </feature>
                                 <feature>
@@ -2466,6 +2481,10 @@
                                 </feature>
                                 <feature>
                                     <id>com.wso2telco.dep.oneapivalidation.feature.group</id>
+                                    <version>${com.wso2telco.dep.version}</version>
+                                </feature>
+                                <feature>
+                                    <id>com.wso2telco.dep.usermasking.feature.group</id>
                                     <version>${com.wso2telco.dep.version}</version>
                                 </feature>
                                 <feature>
@@ -3025,6 +3044,10 @@
                                     <version>${com.wso2telco.dep.version}</version>
                                 </feature>
                                 <feature>
+                                    <id>com.wso2telco.dep.usermasking.feature.group</id>
+                                    <version>${com.wso2telco.dep.version}</version>
+                                </feature>
+                                <feature>
                                     <id>com.wso2telco.dep.subscriptionvalidator.feature.group</id>
                                     <version>${com.wso2telco.dep.version}</version>
                                 </feature>
@@ -3577,6 +3600,10 @@
                                     <version>${com.wso2telco.dep.version}</version>
                                 </feature>
                                 <feature>
+                                    <id>com.wso2telco.dep.usermasking.feature.group</id>
+                                    <version>${com.wso2telco.dep.version}</version>
+                                </feature>
+                                <feature>
                                     <id>com.wso2telco.dep.subscriptionvalidator.feature.group</id>
                                     <version>${com.wso2telco.dep.version}</version>
                                 </feature>
@@ -4058,6 +4085,10 @@
                                 </feature>
                                 <feature>
                                     <id>com.wso2telco.dep.oneapivalidation.feature.group</id>
+                                    <version>${com.wso2telco.dep.version}</version>
+                                </feature>
+                                <feature>
+                                    <id>com.wso2telco.dep.usermasking.feature.group</id>
                                     <version>${com.wso2telco.dep.version}</version>
                                 </feature>
                                 <feature>
